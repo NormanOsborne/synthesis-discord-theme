@@ -440,7 +440,7 @@ code,
   height: 12px;
   margin-left: -6px;
   border-radius: 0 6px 6px 0;
-  background-color: rgb(255, 165, 0);
+  background-color: rgb(38, 75, 143);
   top: calc(50% - 3px);
 }
 .base-2jDfDU .sidebar-1tnWFu .content-1gYQeQ,
@@ -460,7 +460,7 @@ code,
 .base-2jDfDU .title-31SJ6t .search-2Mwzzq .DraftEditor-root .DraftEditor-editorContainer .searchFilter-2UfsDk,
 .base-2jDfDU .title-31SJ6t .search-2Mwzzq .DraftEditor-root .DraftEditor-editorContainer .searchAnswer-23w-CH {
   padding: 0 6px;
-  border: 2px solid rgb(255, 165, 0);
+  border: 2px solid rgb(38, 75, 143);
   background: var(--background-modifier-selected);
   height: 22px;
   line-height: 18px;
